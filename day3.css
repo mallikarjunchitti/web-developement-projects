@@ -1,0 +1,21 @@
+body{
+    background-image: url(wall1.jpg);
+    font-family:Arial, sans-serif ;
+    background-repeat: no-repeat;
+    margin: 10px;
+    padding: 10px;
+    background-size: cover;
+    /* display:flex;*/
+}
+h2{
+    text-align: center;
+    color: azure;
+    font-size: 20pxpx;
+    /*text-shadow:2px 2px 4px green; */
+}
+h3{
+    text-align: center;
+    color: azure;
+    font-size: 20px;
+    text-shadow:2px 2px 4px #000;
+}
