@@ -1,0 +1,38 @@
+.one{
+width: 200px;
+height: 200px;
+padding: 4ch;
+background-color: brown;
+text-align: center;
+}
+.two{
+    width: 200px;
+    height: 200px;
+    padding: 4ch;
+    background-color:blue;
+    text-align: center;
+    margin: auto;
+}
+body{
+     margin: left;
+
+}
+li{
+    list-style: circle;
+    text-decoration: none;
+
+}
+ul{
+    display: flex;
+    gap: 20p
+}
+h1{
+    text-shadow: rgb(12, 23, 44)
+
+}
+button{
+    color: blue;
+    text-shadow: none;
+    border: 255, 0,0 ;
+    padding: ;
+}
